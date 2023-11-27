@@ -20,3 +20,6 @@ This project focuses on designing an efficient and user-friendly signup flow for
 - **Design Considerations:** Dark color palettes were chosen to improve readability and the visual experience. UI/UX elements were crafted to facilitate user navigation and interaction.
 - **User Data Collection:** During registration, basic data such as name, email, and location were collected. All data is handled with strict security measures to ensure user privacy.
 - **Prototype Creation:** Canva and Figma served as the primary tools for designing and creating the registration flow. Additionally, extensive usability tests were conducted with potential users to refine and enhance the design based on their feedback and needs.
+
+##links figma 
+[https://www.figma.com/file/BUOpnO0IjVutLlOi7rdk8N/MOBILE-APP-SIGNUP-FLOW?type=design&node-id=0%3A1&mode=design&t=zuas9Q8LpmW29l8K-1]
