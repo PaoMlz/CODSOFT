@@ -11,9 +11,10 @@ This project focuses on designing an efficient and user-friendly signup flow for
 - **Security:** Prioritize the security measures to safeguard users' personal information and maintain their trust in the app.
 
 ## Demo
-[./socialnetwork 1.png]
-[./socialnetwork 2.png]
-[./socialnetwork 3.png]
+[Social Network 1](socialnetwork 1.png)
+[Social Network 2](socialnetwork 2.png)
+[Social Network 3](socialnetwork 3.png)
+
 
 ## Implementation Details
 - **Technologies Used:** Canva and Figma were employed as design tools. The registration flow incorporates dark colors to enhance the visual experience.
