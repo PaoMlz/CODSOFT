@@ -9,7 +9,8 @@ This project involves the creation of an email template tailored for San Valenti
 - **Responsiveness:** Ensuring the template's compatibility and appealing layout across various devices, including desktops, laptops, tablets, and smartphones.
 
 ## Demo
-![Email Template](TEMPLATE TASK 2.png)
+![Email Template](TEMPLATE%20TASK%202.png)
+
 
 ## Implementation Details
 - **Design Concept:** Utilized the concept of San Valentine's stores, integrating pink and red color schemes to evoke the Valentine's theme.
