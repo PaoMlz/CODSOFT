@@ -19,3 +19,4 @@ This project focuses on designing a visually appealing and user-friendly restaur
 
 
 ## Figma
+[https://www.figma.com/file/nnOCHIRZZoKvvpYFTNwDZa/MENU%2C-RESTAURANT?type=design&node-id=0%3A1&mode=design&t=rFQlKXqgSG8X1jRT-1]
