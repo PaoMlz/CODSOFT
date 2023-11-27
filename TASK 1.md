@@ -11,9 +11,10 @@ This project focuses on designing an efficient and user-friendly signup flow for
 - **Security:** Prioritize the security measures to safeguard users' personal information and maintain their trust in the app.
 
 ## Demo
-[Social Network 1](social network 1.png)
-[Social Network 2](social network 2.png)
-[Social Network 3](social network 3.png)
+[Social Network 1](social%20network%201.png) 
+[Social Network 2](social%20network%202.png) 
+[Social Network 3](social%20network%203.png)
+
 
 
 ## Implementation Details
